@@ -4,7 +4,8 @@
 	$apps[$x]['menu'][$y]['title']['en-us'] = "Dashboard";
 	$apps[$x]['menu'][$y]['title']['ar-eg'] = "الصفحه الرئيسيه للمستخدم";
 	$apps[$x]['menu'][$y]['title']['de-at'] = "Benutzerübersicht";
-	$apps[$x]['menu'][$y]['title']['de-de'] = "Benutzerübersicht";
+	$apps[$x]['menu'][$y]['title']['de-de'] = "Benutzerübersicht"
+	$apps[$x]['menu'][$y]['title']['el-gr'] = "Συνολικός Πίνακας"
 	$apps[$x]['menu'][$y]['title']['es-cl'] = "Dashboard Usuario";
 	$apps[$x]['menu'][$y]['title']['es-mx'] = "";
 	$apps[$x]['menu'][$y]['title']['fr-ca'] = "";
